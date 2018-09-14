@@ -33,7 +33,8 @@ My database
 
 ## How to  Run the application
 1. upload database 
-2. change database connection form .env
+2. After composer install remove (.example) from .env.example  and change director permission if use Linux os
+you can access from localhost on 
 3. please run " php artisan queue:listen "  as commend line
 to start job to crawler lnkes 
 
