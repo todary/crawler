@@ -32,9 +32,9 @@ My database
 
 
 ## How to  Run the application
-1- upload database 
-2- change database connection form .env
-3- please run " php artisan queue:listen "  as commend line
+1. upload database 
+2. change database connection form .env
+3. please run " php artisan queue:listen "  as commend line
 to start job to crawler lnkes 
 
 
